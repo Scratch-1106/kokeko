@@ -1,0 +1,7 @@
+name = "kokeko-backend"
+main = "worker.js"
+compatibility_date = "2026-04-02"
+
+[[kv_namespaces]]
+binding = "SPOT_STORE"
+id = "あなたのKVのIDをここに記述してください"
